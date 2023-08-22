@@ -2,5 +2,5 @@
 - 🌱 I’m currently learning UI/ Fiori application development for Enterprise Resource Planning tools
 - 🌱 I have 5+ years of experience in SAP S/4 Developments handling Logistics, Invoices and Maintenace scheduling
 - 💞️ I’m looking to collaborate on Java Script, Python for Machine learning
-- 📫 Reach me out through my Linkedin profile - Srikanth Reddy Narra "https://www.linkedin.com/in/srikanth-reddy-narra-b37784286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWjlsdU%2FDSQ2jGKl%2FBzysBw%3D%3D"
+- 📫 Reach me out through my Linkedin profile - Srikanth Reddy Narra "www.linkedin.com/in/srikanth-reddy-narra-b37784286"
 - 📫Go through my Tableau public profile"https://public.tableau.com/app/profile/srikanth.reddy.narra"
